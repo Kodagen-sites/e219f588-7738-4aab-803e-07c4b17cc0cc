@@ -1,0 +1,18 @@
+{
+  "images": {
+    "section-services": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/e219f588-7738-4aab-803e-07c4b17cc0cc/images/section-services.jpg",
+    "section-work-3": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/e219f588-7738-4aab-803e-07c4b17cc0cc/images/section-work-3.jpg",
+    "section-work-1": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/e219f588-7738-4aab-803e-07c4b17cc0cc/images/section-work-1.jpg",
+    "section-about": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/e219f588-7738-4aab-803e-07c4b17cc0cc/images/section-about.jpg",
+    "section-work-4": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/e219f588-7738-4aab-803e-07c4b17cc0cc/images/section-work-4.jpg",
+    "section-cta": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/e219f588-7738-4aab-803e-07c4b17cc0cc/images/section-cta.jpg",
+    "section-work-2": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/e219f588-7738-4aab-803e-07c4b17cc0cc/images/section-work-2.jpg"
+  },
+  "videos": {
+    "scene-1": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/e219f588-7738-4aab-803e-07c4b17cc0cc/videos/scene-1.mp4",
+    "final": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/e219f588-7738-4aab-803e-07c4b17cc0cc/videos/final.mp4"
+  },
+  "frames": {},
+  "bucket": "site-assets",
+  "projectId": "e219f588-7738-4aab-803e-07c4b17cc0cc"
+}
