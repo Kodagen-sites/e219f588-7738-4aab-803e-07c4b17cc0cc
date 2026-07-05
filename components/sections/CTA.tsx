@@ -16,7 +16,7 @@ export default function CTA() {
         <img
           src={
             (siteConfig as any).seo?.ogImage ||
-            "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/e219f588-7738-4aab-803e-07c4b17cc0cc/images/section-cta.jpg"
+            "https://kodagen-site-assets.s3.eu-west-1.amazonaws.com/site-assets/e219f588-7738-4aab-803e-07c4b17cc0cc/images/section-cta.jpg"
           }
           alt=""
           aria-hidden
